@@ -1,0 +1,28 @@
+{
+    "name": "ws-sender-dev",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "dev": "nodemon",
+        "build": "rimraf ./build && tsc",
+        "start": "npm run build && node build/app.js"
+    },
+    "devDependencies": {
+        "@types/dotenv": "^8.2.0",
+        "@types/express": "^4.17.14",
+        "@types/node": "^18.11.9",
+        "nodemon": "^2.0.20",
+        "optional": "^0.1.4",
+        "rimraf": "^3.0.2",
+        "ts-node": "^10.9.1",
+        "typescript": "^4.9.3"
+    },
+    "dependencies": {
+        "@types/multer": "^1.4.7",
+        "dotenv": "^16.0.3",
+        "express": "^4.18.2",
+        "libphonenumber-js": "^1.10.14",
+        "multer": "^1.4.5-lts.1",
+        "venom-bot": "^4.3.6"
+    }
+}

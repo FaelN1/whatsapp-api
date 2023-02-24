@@ -1,0 +1,233 @@
+
+
+
+ /\\\      /\\\ /\\\\\\\\\\  /\\\\\     /\\\    /\\\\\\\\    /\\\      \\\\      
+ \/\\\     /\\\ \/\\\_____/  \/\\\ \\\  \/\\\  /\\\_____/\\\ \/\\\ \\ \\ \\\     
+   \/\\\   /\\\  \/\\\        \/\\\ /\\\ \/\\\ \/\\\    \/\\\ \/\\\  \\\  \\\    
+    \/\\\  /\\\   \/\\\\\\\\\\ \/\\\  /\\\ /\\\ \/\\\    \/\\\ \/\\\  \\\  \\\   
+      \/\\\ \\\    \/\\\_____/  \/\\\ \/\\\ /\\\ \/\\\    \/\\\ \/\\\  \\\  \\\  
+       \/\\\\\\     \/\\\        \/\\\ \ /\\\ \\\ \/\\\    \/\\\ \/\\\  \\\  \\\ 
+        \/_/\\\      \/\\\\\\\\\\ \/\\\  \/_\\\\\\ \/_/\\\\\\\\\  \/\\\  \\\  \\\
+          \/__/       \/________/  \/_/    \/____/    \/_______/   \/_/ \/_/ \/_/
+
+
+
+[32minfo[39m:     https://orkestral.io - official site!
+
+[32minfo[39m:     [ws-sender-dev] Waiting... checking the browser...
+[32minfo[39m:     [ws-sender-dev:browser] Check chromium....
+[32minfo[39m:     [ws-sender-dev:browser-total] Checking the total bytes to download!
+Servidor Ligado
+[32minfo[39m:     [ws-sender-dev:browser] Chromium Finished result
+[32minfo[39m:     [ws-sender-dev:browser-total] Chromium completed result
+[32minfo[39m:     [ws-sender-dev] Browser successfully opened
+[32minfo[39m:     [ws-sender-dev] checking headless...
+[32minfo[39m:     [ws-sender-dev] headless option is active, browser hidden
+[32minfo[39m:     [ws-sender-dev] Checking page...
+[32minfo[39m:     [ws-sender-dev] Page successfully accessed
+- [instance: ws-sender-dev]: Waiting page load
+- [instance: ws-sender-dev]: Checking is logged...
+- [instance: ws-sender-dev]: Waiting for QRCode Scan...
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▀█▀▀  █▄█▀  ▀██▄ ▀▄▄▄▄ ▄▀▀▀█▄ ██ █ ▀██ ▄▄▄▄▄ █
+█ █   █ █▀▄ ▄███▄█  █ ▀▄▀▄ █▄██▀▄▄▄▀ ▀▄█▀▄▀▀▄▀█ █   █ █
+█ █▄▄▄█ █▀█▀█▄  ▀██  █▀ █ ▄▄▄ ▄ █▄▄▀  ▄▀▀█  ███ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄█ ▀▄█ ▀▄▀ █▄▀ █ █▄█ █▄█▄█ ▀▄█ ▀ ▀▄█ █▄▄▄▄▄▄▄█
+█  ▄ ▄▀▄ ▄▄ ▀▀▄▄▄▀  █▄█▀▀▄▄▄▄ ▀  ▀ ▄▄ ▀██▀ ▀█▄▄█ ▀ █ ▀█
+█▄▀▄▄▄▄▄▄▀ ▀▄█▄█▄ ▀▀█▀▀█ ▀▀▄█▀█  █▄▄▀▀▀ ▄ ▀ ▄▄ ▀ ▀▄▄▀▀█
+█▄▀ ▀▄▄▄ █ ▄ ▄▄█▀▄▀▄▀██▀▀▀ █▄▀   ▀██▄ ▀█ █   █ ▄  ▄ ▄██
+█▀██  ▀▄▄ ▀▄  ▀█▀▀█ █▀▀▀█▀▄▄▄██▄▀█  █▀▄▀▀▀▄▄▀▄▀▄█ █▄█▀█
+█▄█ ██▀▄▀▀▄█▄▀▀█▀█▀▄▀▄██ ▄▀▄▄  ▀ ██▄  ▀▄█▀█▀ ███▄  ▄ ▄█
+█▀  ▄  ▄█▄▀▄▄ ▄▄▀█▄    █▀ ▄▄▄█▄ ▀▀▀▄▀███▄  ▀  ▀███ ▄███
+█▄  █▄█▄  █▀▀  █▀▄   █▀██ ▄ ▄▀▄  █▀█▀ ▄▄██▀  █▀▄▄ ▀▄ ██
+█▀█▄ ██▄ ▀▀▀▀█▄  ▄  ▄▀█▀▄▀▄▄▄█▄█▀██▄▀█ ▄  ▀ ▀█▀▄ █ ██▀█
+█▀ ▀  ▄▄▄   ▄█▄▄▄▀▀▄▀▄▄▀▄ ▄▄▄ ▀▀▄▀ █ ▄▀▄▄▀  █ ▄▄▄ █ ▀▀█
+█ █▀▀ █▄█ ▄ ▀▀ █▄ █▄▄█▄▀  █▄█ ▀ ▀▀█▄ ▄▄▀▀▄▀▄▄ █▄█  █▀██
+█▄█▀▄▄ ▄▄▄▄▄▄  █▄█▄▄▀█ ▀▄▄    ▀▀▄▀██▀ ▀█▀▀▀▀▄ ▄▄▄  █▄██
+██▀█   ▄█▀ ▄▀█▀█▀▄█▀▀█ ▀▀▄▄▀▀▄█████▄ ███▀  █▄ ▀▀██ █▀▀█
+█▄ ▄ ▀█▄▄▀█▀▀▄▀█▀█▀▄ █▀█▀▀ ▀▀▀   ▀█▄▄▄ █▄▀▀▀██▄▄█▀▀█▀██
+█▄▄█ ▄▄▄▄▄▄▄ ▀ ▀▀█▀█ █▄ █▀ ████▀█████ █▄▀▄ ▀▀▀▀█ ▄█▄▀▀█
+█▀ █   ▄ ▄▀█ ▄▄██▄▀▄ ▄█▀▀▄▄▀ ▄ ▀▄█▄▄▄▄▀▄█▀ ▀▀▀▀█▀ █ ▄▀█
+██▄ ██ ▄█▀▄  ▀▄ ▀▀ ▀█▀▀ █▄█ █▄▀█▄▄ ▄▀ ▀▄▀▀▄  ▄█▀█▄ █▀██
+█▄▀█ ▄▀▄▀▀▀ ▄▀▄▄▄▀█ ▀█▀▀█▄ █ ▀▀▀ ▀▄▄▄  █ ▀▄▀█ █ ▄▀▀▀█ █
+█▄ ▀▄▄▄▄ ▀ ██  ▄▄  ▄▄█▀█▀▄▀ █▄ ██▀█▀█▀█▀█▀▄▀▀▀▀█▄▀▄▄▄██
+████▄██▄▄▀ ▀▀██▀▄█▄  ▄▀▀▀ ▄▄▄   ▀███ ▄ █ █  █ ▄▄▄ ▄  ▄█
+█ ▄▄▄▄▄ █▄▄   ▀   ▄█▄▄ ▄▀ █▄█ ▀▀▄▄▀▄▀▄▄▀▄ ▄ ▀ █▄█ █████
+█ █   █ █  █▄▀█▄▀█▄▀ ▄▀█▀▄ ▄▄ ▀  ██▄▀▄▀▄ █▀▀▀ ▄▄▄▄▄▄███
+█ █▄▄▄█ █ ▄▄▀▀ █▀███▄▄▄▀▀ ██ ▄█ ▀▀ █ ▄▄▄█▀█▄▄▀▄█▄ ▀█▀▄█
+█▄▄▄▄▄▄▄█▄██▄▄█▄▄▄▄▄█▄██▄▄▄▄███████▄▄▄█▄▄█▄▄██▄▄██▄▄███
+
+- [instance: ws-sender-dev]: Checking QRCode status...
+- [instance: ws-sender-dev]: QRCode Success
+- [instance: ws-sender-dev]: Checking phone is connected...
+- [instance: ws-sender-dev]: Page Closed
+(node:14585) UnhandledPromiseRejectionWarning: ProtocolError: Protocol error (Runtime.callFunctionOn): Target closed.
+    at /home/arpanet/ws-sender-dev/node_modules/puppeteer/lib/cjs/puppeteer/common/Connection.js:268:24
+    at new Promise (<anonymous>)
+    at CDPSession.send (/home/arpanet/ws-sender-dev/node_modules/puppeteer/lib/cjs/puppeteer/common/Connection.js:264:16)
+    at ExecutionContext._ExecutionContext_evaluate (/home/arpanet/ws-sender-dev/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:268:46)
+    at ExecutionContext.evaluateHandle (/home/arpanet/ws-sender-dev/node_modules/puppeteer/lib/cjs/puppeteer/common/ExecutionContext.js:162:107)
+    at WaitTask.rerun (/home/arpanet/ws-sender-dev/node_modules/puppeteer/lib/cjs/puppeteer/common/DOMWorld.js:708:37)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:14585) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 6)
+(node:14585) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+- [instance: ws-sender-dev]: Phone not connected
+Phone not connected
+TypeError: Cannot read property 'sendText' of undefined
+    at Sender.<anonymous> (/home/arpanet/ws-sender-dev/build/sender.js:96:58)
+    at step (/home/arpanet/ws-sender-dev/build/sender.js:56:23)
+    at Object.next (/home/arpanet/ws-sender-dev/build/sender.js:37:53)
+    at /home/arpanet/ws-sender-dev/build/sender.js:31:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/arpanet/ws-sender-dev/build/sender.js:27:12)
+    at Sender.sendText (/home/arpanet/ws-sender-dev/build/sender.js:84:16)
+    at /home/arpanet/ws-sender-dev/build/app.js:62:45
+    at step (/home/arpanet/ws-sender-dev/build/app.js:33:23)
+    at Object.next (/home/arpanet/ws-sender-dev/build/app.js:14:53)
+TypeError: Cannot read property 'sendText' of undefined
+    at Sender.<anonymous> (/home/arpanet/ws-sender-dev/build/sender.js:96:58)
+    at step (/home/arpanet/ws-sender-dev/build/sender.js:56:23)
+    at Object.next (/home/arpanet/ws-sender-dev/build/sender.js:37:53)
+    at /home/arpanet/ws-sender-dev/build/sender.js:31:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/arpanet/ws-sender-dev/build/sender.js:27:12)
+    at Sender.sendText (/home/arpanet/ws-sender-dev/build/sender.js:84:16)
+    at /home/arpanet/ws-sender-dev/build/app.js:62:45
+    at step (/home/arpanet/ws-sender-dev/build/app.js:33:23)
+    at Object.next (/home/arpanet/ws-sender-dev/build/app.js:14:53)
+TypeError: Cannot read property 'sendText' of undefined
+    at Sender.<anonymous> (/home/arpanet/ws-sender-dev/build/sender.js:96:58)
+    at step (/home/arpanet/ws-sender-dev/build/sender.js:56:23)
+    at Object.next (/home/arpanet/ws-sender-dev/build/sender.js:37:53)
+    at /home/arpanet/ws-sender-dev/build/sender.js:31:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/arpanet/ws-sender-dev/build/sender.js:27:12)
+    at Sender.sendText (/home/arpanet/ws-sender-dev/build/sender.js:84:16)
+    at /home/arpanet/ws-sender-dev/build/app.js:62:45
+    at step (/home/arpanet/ws-sender-dev/build/app.js:33:23)
+    at Object.next (/home/arpanet/ws-sender-dev/build/app.js:14:53)
+TypeError: Cannot read property 'sendText' of undefined
+    at Sender.<anonymous> (/home/arpanet/ws-sender-dev/build/sender.js:96:58)
+    at step (/home/arpanet/ws-sender-dev/build/sender.js:56:23)
+    at Object.next (/home/arpanet/ws-sender-dev/build/sender.js:37:53)
+    at /home/arpanet/ws-sender-dev/build/sender.js:31:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/arpanet/ws-sender-dev/build/sender.js:27:12)
+    at Sender.sendText (/home/arpanet/ws-sender-dev/build/sender.js:84:16)
+    at /home/arpanet/ws-sender-dev/build/app.js:62:45
+    at step (/home/arpanet/ws-sender-dev/build/app.js:33:23)
+    at Object.next (/home/arpanet/ws-sender-dev/build/app.js:14:53)
+
+> ws-sender-dev@1.0.0 dev /home/arpanet/ws-sender-dev
+> nodemon
+
+[33m[nodemon] 2.0.20[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): src/**/*[39m
+[33m[nodemon] watching extensions: ts,js[39m
+[32m[nodemon] starting `npx ts-node ./src/app.ts`[39m
+events.js:292
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Emitted 'error' event on ReadStream instance at:
+    at internal/fs/streams.js:218:14
+    at FSReqCallback.wrapper [as oncomplete] (fs.js:525:5) {
+  errno: -9,
+  code: 'EBADF',
+  syscall: 'read'
+}
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! ws-sender-dev@1.0.0 dev: `nodemon`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the ws-sender-dev@1.0.0 dev script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2022-11-20T21_24_13_657Z-debug.log
+
+
+
+ /\\\      /\\\ /\\\\\\\\\\  /\\\\\     /\\\    /\\\\\\\\    /\\\      \\\\      
+ \/\\\     /\\\ \/\\\_____/  \/\\\ \\\  \/\\\  /\\\_____/\\\ \/\\\ \\ \\ \\\     
+   \/\\\   /\\\  \/\\\        \/\\\ /\\\ \/\\\ \/\\\    \/\\\ \/\\\  \\\  \\\    
+    \/\\\  /\\\   \/\\\\\\\\\\ \/\\\  /\\\ /\\\ \/\\\    \/\\\ \/\\\  \\\  \\\   
+      \/\\\ \\\    \/\\\_____/  \/\\\ \/\\\ /\\\ \/\\\    \/\\\ \/\\\  \\\  \\\  
+       \/\\\\\\     \/\\\        \/\\\ \ /\\\ \\\ \/\\\    \/\\\ \/\\\  \\\  \\\ 
+        \/_/\\\      \/\\\\\\\\\\ \/\\\  \/_\\\\\\ \/_/\\\\\\\\\  \/\\\  \\\  \\\
+          \/__/       \/________/  \/_/    \/____/    \/_______/   \/_/ \/_/ \/_/
+
+
+
+[32minfo[39m:     https://orkestral.io - official site!
+
+[32minfo[39m:     [ws-sender-dev] Waiting... checking the browser...
+[32minfo[39m:     [ws-sender-dev:browser] Check chromium....
+[32minfo[39m:     [ws-sender-dev:browser-total] Checking the total bytes to download!
+Servidor Ligado
+[32minfo[39m:     [ws-sender-dev:browser] Chromium Finished result
+[32minfo[39m:     [ws-sender-dev:browser-total] Chromium completed result
+[32minfo[39m:     [ws-sender-dev] Browser successfully opened
+[32minfo[39m:     [ws-sender-dev] checking headless...
+[32minfo[39m:     [ws-sender-dev] headless option is active, browser hidden
+[32minfo[39m:     [ws-sender-dev] Checking page...
+[32minfo[39m:     [ws-sender-dev] Page successfully accessed
+- [instance: ws-sender-dev]: Waiting page load
+TypeError: Cannot read property 'sendText' of undefined
+    at Sender.<anonymous> (/home/arpanet/ws-sender-dev/src/sender.ts:45:27)
+    at step (/home/arpanet/ws-sender-dev/src/sender.ts:56:23)
+    at Object.next (/home/arpanet/ws-sender-dev/src/sender.ts:37:53)
+    at /home/arpanet/ws-sender-dev/src/sender.ts:31:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/arpanet/ws-sender-dev/src/sender.ts:27:12)
+    at Sender.sendText (/home/arpanet/ws-sender-dev/src/sender.ts:84:16)
+    at /home/arpanet/ws-sender-dev/src/app.ts:20:22
+    at step (/home/arpanet/ws-sender-dev/src/app.ts:33:23)
+    at Object.next (/home/arpanet/ws-sender-dev/src/app.ts:14:53)
+- [instance: ws-sender-dev]: Checking is logged...
+- [instance: ws-sender-dev]: Waiting for QRCode Scan...
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▄██ █ ▀ █▀ ▄█ █ ▄▀▀ ▄▄▄▄▀█▀▄▄▀█▄▄█ ▀██ ▄▄▄▄▄ █
+█ █   █ █  ▄▀▄▀██   █ ▀█▄▀▀▀▀▄ █▀▄▄ ▀▀▄▄▄▄▀▀▄▀█ █   █ █
+█ █▄▄▄█ █▄▀  ▄▄ ▀█ ▀▄  ▄█ ▄▄▄ █▀▄▀▄█▀   █▄▄ ███ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄▀▄█ █▄▀ ▀ █ ▀▄▀ █▄█ ▀ █ ▀ ▀▄█ ▀ █ █▄█▄▄▄▄▄▄▄█
+█▄  ▄▀▀▄▀ █▀ ▄█▄█ ▄█ █ ▄▀▄ ▄▄ ▀▀██▄▄▄▀▀█  ▀  █▄█▀▄▄ ▀▄█
+█▀ ▄▄ ▀▄ ▀ ██▀▀▄▀▄██▀▄▀██▄▀▄█▀ ▄▀▀▄▀█▄▀▀ ▀▀ ▀   ▄█▀█▄▀█
+█▄█ ▄▄ ▄▀ ▀█▀ ▄▀ ▄   ▀▀█ █  ▀█▄▄▄▀▄▄   ▀▀█▀▄▀▀▀█  ▄ ▄▄█
+█▀▄▀▀▀█▄ ▄▄▄██ ██▄█▄  █▀█  ▄      ▀▀▄ ▄▀▀▀  ▀▄▀▄█  ▄▄▄█
+█▄█ ▀▄ ▄ █▄▄▀██▄▄▀▀█▄█▀█▀▀▀▄█▀▀▄█▄ ▀▀▀██ ███▄█▀ ▀█▀█▀██
+█▄ █   ▄▀█▀▀██ ▀███▀▀ ██▄▄  █▀▀▄ █▄  ▄ ▀ █▄██▄  ▀██▀▀██
+██▀ ▀▀█▄▀▀▀▄██ ▀██▄▀ █ ▄▀▀ ▄▀▀ ▀ █▄█ ▀▄▄  ▀ █▄▄█▄▀█▄█▄█
+█▀ ▄█ ▀▄▀▀▄▀█  ▀▀▄█▀ ▄▄▀█▄▄▄ █▄███▀▄▄▄ ██▄▀█▀██▀▀ ▄█ ██
+██  █ ▄▄▄ ▄ ▄ ▄  ▀█  ▀ ▀  ▄▄▄ ██▄█▀▄▄▄▀ ▀▀▄▄▀ ▄▄▄ ▄▀▀▀█
+█▀▄ ▀ █▄█   █▄███▀█ ▀▄▀   █▄█ ▄█ ▀█▀ ▀▀█▄▄▄▄█ █▄█ ▀█▀▄█
+█▀ ▀▄ ▄▄     █▄▄▀ ▀█▄█▄▀▀  ▄  █▄   ▀▀█▄▄ ▀▀██▄ ▄ ▄  █▀█
+██  ▄▄█▄  ▀█ ▄▀▀█▄▀▄▀  █▀█ ▀▀▄ ▀ ▀ ▄  █   ▀▀█▄█▀█ ▀▀▀██
+██▀█ ██▄▀▀ ▄▄▀ █ ▄▀█▀▄█ ▀ █▀█▀▀▀▀▀▀█▄█▀▄▄  ▀▄▀▀▀█ ▀▄ ▄█
+█▀▀▀█ ▀▄█▄▀▀▄ ▀▄▄▀▄▀▄█▀▄  ▀   ▄▀▄▄  ▀ █▀▄▀  █▀▀█▀▀▄█▄██
+██▄  ▄█▄▀█▄ ▀ ▄█▀▄▄▄ ▀██▀▀ ▀▄▀▄▄▄▀███▄▀ █▀▄██ ▀ ██▄▄ ▀█
+███  ▀▄▄▀▀▀▀ ▀█  ▄  █▄█ █ ████▄▀▀  ██▀▄▀▄  ▄▄  ▄█ ▀█▀ █
+█▄▄█   ▄▀▀▄▄▀▄ █▀█▄█▄█▄▀    █ █▄▀▄▀▀▀███ ████▄█▀█▄▀█▀██
+█▄ ▀▄▄▄▄ ▄██▄ ▄   ▀▀█▀▀ █ █▀ ▄▀█▄▄██ ▄█ ▀███▄▄███▄ ▀ ██
+████▄██▄▄▀█ █▄▀▄▄█ █ ▄█ ▀ ▄▄▄ ▀  ██▄ █ ▄▄▄▀ ▄ ▄▄▄ ▀▀███
+█ ▄▄▄▄▄ ██▄▄███▀▀▀█ █▄▀▀  █▄█ █▀ ▀▄█▀█▀ ▀█▄ █ █▄█ ██▄▀█
+█ █   █ █▀██▄█▄███ █▄ ██▀▄  ▄▄▄█▄▀ ▄  ▀▀▀█▄█▀▄  ▄ ▀▀▀██
+█ █▄▄▄█ █ █▀ ▀▀▀ ▄ ▀▄ ▀█▀██ ▄ █▄▀▀▀▀ █▄▀▀▄█ █▀▄▄▄▀█▄ ██
+█▄▄▄▄▄▄▄█▄▄▄▄██▄▄███▄█████████▄██▄▄█▄██▄▄█▄▄██▄▄██▄█▄██
+
+internal/modules/cjs/loader.js:965
+  throw err;
+  ^
+
+Error: Cannot find module '/home/arpanet/ws-sender-dev/app.js'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:962:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:838:27)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:71:12)
+    at internal/main/run_main_module.js:17:47 {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: []
+}
