@@ -14,4 +14,4 @@ Para executar a API, basta clonar ou baixar o repositório e seguir os passos ab
 4. Iniciar a API: ```yarn start``` ou ```yarn dev``` (para desenvolvimento) 
 
 ## Contato
-Caso tenha interesse em colaborar com o projeto ou precise de suporte para utilizá-lo, entre em contato pelo meu LinkedIn ou pelo WhatsApp.
+Caso tenha interesse em colaborar com o projeto ou precise de suporte para utilizá-lo, entre em contato pelo meu [LinkedIn](https://www.linkedin.com/in/rafael-nicolas-7119b91b7/) ou [WhatsApp](https://wa.me/5511958621210).
