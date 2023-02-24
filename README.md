@@ -8,9 +8,9 @@ A API permite o envio de mensagens, imagens e localizações, além de um menu e
 ## Como usar
 Para executar a API, basta clonar ou baixar o repositório e seguir os passos abaixo:
 
-1. ``` Clonar o repositório: git clone https://github.com/FaelN1/whatsapp-api.git ```
-2. ``` Acessar o diretório do projeto: cd whatsapp-api ```
-3. ``` Instalar as dependências: yarn ```
+1. Clonar o repositório: ```git clone https://github.com/FaelN1/whatsapp-api.git```
+2. Acessar o diretório do projeto: ```cd whatsapp-api```
+3. Instalar as dependências: ```yarn```
 4. Iniciar a API: ```yarn start``` ou ```yarn dev``` (para desenvolvimento) 
 
 ## Contato
