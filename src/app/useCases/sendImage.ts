@@ -1,20 +1,22 @@
-import { Request, Response } from 'express';
-import { user } from '../../app';
+import { Request, Response } from "express";
+import { user } from "../../app";
 
 export async function sendImage(req: Request, res: Response) {
-  const { phoneNumber, imageUrl, imageName, imageText } = req.body;
-
-  if (!imageUrl) {
-    console.error('No ImageUrl provided!');
-    return res.sendStatus(400);
-  }
+  const { phoneNumber, imageName, imageURL, imageText } = req.body;
 
   try {
-    await user.sendImage(phoneNumber, imageUrl, imageName, imageText);
-    console.log('Image sent successfully!');
+    await user
+      .sendImage(phoneNumber, imageURL, imageName, imageText)
+      .then((result) => {
+        console.log("Result: ", result); //return object success
+      })
+      .catch((erro) => {
+        console.error("Error when sending: ", erro); //return object error
+      });
+
     res.sendStatus(200);
   } catch (error) {
-    console.error(`Error sending image: ${error}`);
+    console.log(error);
     res.sendStatus(500);
   }
 }

@@ -4,17 +4,19 @@ import { user } from "../../app";
 export async function sendLocation(req: Request, res: Response) {
   const { phoneNumber, location, locationText } = req.body;
 
-  if (!location) {
-    console.error('No location provided!');
-    return res.sendStatus(400);
-  }
-
   try {
-    await user.sendLocation(phoneNumber, location.x, location.y, locationText);
-    console.log("Location sent successfully!");
+    await user
+      .sendLocation(phoneNumber, location.x, location.y, locationText)
+      .then((result) => {
+        console.log("Result: ", result); //return object success
+      })
+      .catch((erro) => {
+        console.error("Error when sending: ", erro); //return object error
+      });
+
     res.sendStatus(200);
   } catch (error) {
-    console.error(`Error sending location: ${error}`);
+    console.log(error);
     res.sendStatus(500);
   }
 }

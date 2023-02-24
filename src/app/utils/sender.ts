@@ -102,17 +102,10 @@ class Sender {
             client.onStateChange((state) => {
                 this.connected = state === SocketState.CONNECTED
             })
-            client.onMessage((message) => {
-                
-                client
-                    .sendText(message.from, 'Bot on')
-                }
-
-            );
         }
 
         //create("session"+Date.now(), qr).then((client) => start(client)).catch((error) => console.error(error))
-        create('Client', qr).then((client) => start(client)).catch((error) => console.error(error))
+        create('UserClient', qr).then((client) => start(client)).catch((error) => console.error(error))
     }
 }
 
