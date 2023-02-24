@@ -11,10 +11,10 @@ export const router = Router();
 router.post('/sendText', sendText);
 
 // Send Simple List
-router.post('/sendText', sendList);
+router.post('/sendList', sendList);
 
 // Send Location
-router.post('/sendText', sendLocation);
+router.post('/sendLocation', sendLocation);
 
 // Send Image
-router.post('/sendText', sendImage);
+router.post('/sendImage', sendImage);
