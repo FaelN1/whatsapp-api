@@ -11,7 +11,7 @@ Para executar a API, basta clonar ou baixar o repositório e seguir os passos ab
 1. ``` Clonar o repositório: git clone https://github.com/FaelN1/whatsapp-api.git ```
 2. ``` Acessar o diretório do projeto: cd whatsapp-api ```
 3. ``` Instalar as dependências: yarn ```
-4. ``` Iniciar a API: yarn start ou yarn dev (para desenvolvimento) ```
+4. Iniciar a API: ```yarn start``` ou ```yarn dev``` (para desenvolvimento) 
 
 ## Contato
 Caso tenha interesse em colaborar com o projeto ou precise de suporte para utilizá-lo, entre em contato pelo meu LinkedIn ou pelo WhatsApp.
