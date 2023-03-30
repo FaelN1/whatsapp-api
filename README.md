@@ -1,17 +1,18 @@
 # Whatsapp-API - Typescript/Javascript WhatsApp Web API
  
-Este projeto é uma API que permite a automatização de mensagens no WhatsApp Web usando Typescript e Javascript, através da biblioteca `venom-bot`.
+This project is an API that allows the automation of messages on WhatsApp Web using Typescript and Javascript, through the `venom-bot` library.
  
-## Sobre o projeto
-A API permite o envio de mensagens, imagens e localizações, além de um menu em forma de lista, com o objetivo de facilitar o desenvolvimento de chatbots. O projeto foi desenvolvido inicialmente com o uso do puppeteer, porém, por se tratar de uma solução mais pesada, pretende-se migrar para uma opção mais leve.
+## About the project
+The API allows sending messages, images and locations, as well as a menu in the form of a list, with the aim of facilitating the development of chatbots. The project was initially developed using puppeteer, however, as it is a heavier solution, it is intended to migrate to a lighter option.
 
-## Como usar
-Para executar a API, basta clonar ou baixar o repositório e seguir os passos abaixo:
+## How to use
+To run the API, just clone or download the repository and follow the steps below:
 
-1. Clonar o repositório: ```git clone https://github.com/FaelN1/whatsapp-api.git```
-2. Acessar o diretório do projeto: ```cd whatsapp-api```
-3. Instalar as dependências: ```yarn```
-4. Iniciar a API: ```yarn start``` ou ```yarn dev``` (para desenvolvimento) 
+1. Clone the repository: ```git clone https://github.com/FaelN1/whatsapp-api.git```
+2. Access the project directory: ```cd whatsapp-api```
+3. Install dependencies: ```yarn```
+4. Start the API: ```yarn start``` or ```yarn dev``` (for development)
 
-## Contato
-Caso tenha interesse em colaborar com o projeto ou precise de suporte para utilizá-lo, entre em contato pelo meu [LinkedIn](https://www.linkedin.com/in/rafael-nicolas-7119b91b7/) ou [WhatsApp](https://wa.me/5511958621210).
+## Contact
+If you are interested in collaborating with the project or need support to use it, please contact me via [LinkedIn](https://www.linkedin.com/in/rafael-nicolas-7119b91b7/) or [WhatsApp]( https://wa.me/5511958621210).
+
